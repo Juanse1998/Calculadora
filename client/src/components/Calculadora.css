@@ -1,0 +1,43 @@
+.contenedor {
+    background-color: aqua;
+    width: 100%;
+ 
+    justify-content: center;
+}
+
+.operaciones {
+    padding-top: 4%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.botones {
+
+    display: flex;
+    padding: 1%;
+    justify-content: center;
+
+}
+
+.calculadora-container {
+    display: flex;
+    background-color: aqua;
+    flex-direction:row ;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn{
+    margin: 1%;
+}
+
+.resultado {
+    display:flex;
+    justify-content: center;
+}
+
+.historial {
+    display:flex;
+    justify-content: center;
+}
